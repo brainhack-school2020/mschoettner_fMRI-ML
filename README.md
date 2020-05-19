@@ -4,7 +4,7 @@ Team contributors: Mikkel Schöttner
 
 ## Summary 
 
-This project will use machine learning on an openly accessable fMRI data set. Suitable data sets can for example be found on [OpenfMRI](https://openfmri.org/dataset/).
+This project will use machine learning on an openly accessable fMRI data set. Suitable data sets can for example be found on [OpenNEURO](https://openneuro.org/public/datasets).
 
 ## Project definition 
 
@@ -22,7 +22,7 @@ The project will rely on the following technologies:
 
 ### Data 
 
-One of the [OpenfMRI](https://openfmri.org/dataset/) datasets.
+One of the [OpenNEURO](https://openneuro.org/public/datasets) datasets.
 
 ### Deliverables
 
