@@ -22,7 +22,7 @@ The project will rely on the following technologies:
 
 ### Data 
 
-One of the [OpenNEURO](https://openneuro.org/public/datasets) datasets, for example [this one](https://openneuro.org/datasets/ds000221/versions/00002)
+One of the [OpenNEURO](https://openneuro.org/public/datasets) datasets, for example [this one](https://openneuro.org/datasets/ds000221/versions/00002).
 
 ### Deliverables
 
