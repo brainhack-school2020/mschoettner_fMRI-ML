@@ -1,10 +1,6 @@
-[![](https://img.shields.io/badge/Visit-our%20project%20page-ff69b4)](https://school.brainhackmtl.org/project/template)
-
 # Machine Learning on fMRI data
 
 Team contributors: Mikkel Schöttner
-
-![BrainHack School](bhs2020.png)
 
 ## Summary 
 
