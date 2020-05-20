@@ -6,7 +6,7 @@ Team contributors: Mikkel Schöttner
 
 This project will use machine learning on the preprocessed [ABIDE](http://preprocessed-connectomes-project.org/abide/index.html) data set to predict autism from resting state fMRI data.
 
-Because of the large size of the data set, the main analysis will be run on an HPC cluster.
+Because of the large size of the data set, the main analysis will be run on a high performance computing (HPC) cluster.
 
 ## Project definition 
 
