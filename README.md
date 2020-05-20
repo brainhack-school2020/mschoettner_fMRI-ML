@@ -4,7 +4,9 @@ Team contributors: Mikkel Schöttner
 
 ## Summary 
 
-This project will use machine learning on an openly accessable fMRI data set. Suitable data sets can for example be found on [OpenNEURO](https://openneuro.org/public/datasets).
+This project will use machine learning on the preprocessed [ABIDE](http://preprocessed-connectomes-project.org/abide/index.html) data set to predict autism from resting state fMRI data.
+
+Because of the large size of the data set, the main analysis will be run on an HPC cluster.
 
 ## Project definition 
 
@@ -22,7 +24,7 @@ The project will rely on the following technologies:
 
 ### Data 
 
-One of the [OpenNEURO](https://openneuro.org/public/datasets) datasets, for example [this one](https://openneuro.org/datasets/ds000221/versions/00002).
+The Autism Brain Imaging Data Exchange contains resting state fMRI data from several sites of 539 individuals with autism spectrum disorder (ASD) and 573 neurotypical controls. It has been preprocessed using several different preprocessing pipelines. More information on that can be found [here](http://preprocessed-connectomes-project.org/abide/Pipelines.html). The data set is included in the Nilearn data sets. It can be downloaded using `nilearn.datasets.fetch_abide_pcp`. See [here](https://nilearn.github.io/modules/generated/nilearn.datasets.fetch_abide_pcp.html) for all parameter specifications.
 
 ### Deliverables
 
