@@ -1,4 +1,4 @@
-# Machine Learning on fMRI data
+# Machine Learning classifier on fMRI data
 
 Team contributors: Mikkel Schöttner
 
