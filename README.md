@@ -4,7 +4,7 @@ Team contributors: Mikkel Schöttner
 
 ## Summary 
 
-This project will use machine learning on the preprocessed [ABIDE](http://preprocessed-connectomes-project.org/abide/index.html) data set to predict autism from resting state fMRI data.
+This project will use machine learning on the preprocessed [ABIDE](http://preprocessed-connectomes-project.org/abide/index.html) data set to predict autism spectrum disorder (ASD) from resting state functional magnetic resonance imaging (rs-fMRI) data.
 
 Because of the large size of the data set, the main analysis will be run on a high performance computing (HPC) cluster.
 
@@ -12,7 +12,7 @@ Because of the large size of the data set, the main analysis will be run on a hi
 
 ### Background
 
-TO DO: Include background.
+Several studies have found lower functional connectivity in the default mode network in people with ASD (Anderson, 2014). Based on these findings, rs-fMRI data have been used to predict autism by training a classifier on the multi-site ABIDE data set (Nielsen et al., 2013). This project aims to replicate these findings.
 
 ### Tools 
 
@@ -57,3 +57,9 @@ TO DO: Include description.
 ## Conclusion and acknowledgement
 
 TO DO: Include conclusion and acknowledgement.
+
+## Literature
+
+Anderson, J. S., Patel, V. B., Preedy, V. R., & Martin, C. R. (2014). Cortical underconnectivity hypothesis in autism: evidence from functional connectivity MRI. *Comprehensive guide to autism, 1457*, 1471.
+
+Nielsen, J. A., Zielinski, B. A., Fletcher, P. T., Alexander, A. L., Lange, N., Bigler, E. D., ... & Anderson, J. S. (2013). Multisite functional connectivity MRI classification of autism: ABIDE results. *Frontiers in human neuroscience, 7*, 599.
