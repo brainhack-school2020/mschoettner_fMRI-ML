@@ -44,16 +44,6 @@ The project was initiated by Mikkel Schöttner.
 - machine learning
 - using HPC clusters
  
-### Deliverables 
-
-#### Deliverable 1: Python script
-
-TO DO: Include description.
-
-#### Deliverable 2: Jupyter notebook
-
-TO DO: Include description.
- 
 ## Conclusion and acknowledgement
 
 TO DO: Include conclusion and acknowledgement.
