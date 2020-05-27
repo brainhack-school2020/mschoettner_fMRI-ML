@@ -20,6 +20,7 @@ The project will rely on the following technologies:
 
 - nilearn
 - scikit-learn
+- plotly
 - HPC/compute Canada
 
 ### Data 
@@ -30,14 +31,19 @@ The Autism Brain Imaging Data Exchange contains resting state fMRI data from sev
 
 At the end of this project, we will have:
 
- - a Python script that contains the main analysis
+ - a Jupyter notebook that contains an interactive graph/dashboard created using plotly
  - a Jupyter notebook that includes preparation of the data, visualization, explanations etc.
+ - a Python script that contains the main analysis
 
-## Results 
+## Results
 
 ### Progress overview
 
 The project was initiated by Mikkel Schöttner.
+
+### Week 3 deliverable: data visualization
+
+TO DO: Where can the dashboard be found?
 
 ### Tools I learned during this project
 
