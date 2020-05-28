@@ -43,7 +43,9 @@ The project was initiated by Mikkel Schöttner.
 
 ### Week 3 deliverable: data visualization
 
-TO DO: Where can the dashboard be found?
+The ABIDE dataset contains data from several different sites. One caveat of training a classifier on this data is that the sites have age distributions that differ quite much from each other. The interactive plot linked below shows the age distribution over different sites, split by autism/control in violin plots. You can toggle the two groups on and off. You can also hover with the mouse over each datapoint to see what the exact values are.
+
+[Link to the plot](https://chart-studio.plotly.com/~mschoettner/1/#plot)
 
 ### Tools I learned during this project
 
