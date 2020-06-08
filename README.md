@@ -37,10 +37,6 @@ At the end of this project, we will have:
 
 ## Results
 
-### Progress overview
-
-The project was initiated by Mikkel Schöttner.
-
 ### Week 3 deliverable: data visualization
 
 The ABIDE dataset contains data from several different sites. One caveat of training a classifier on this data is that the sites have age distributions that differ quite much from each other. The interactive plot linked below shows the age distribution over different sites, split by autism/control in box plots. You can toggle the two groups on and off. You can also hover with the mouse over each boxplot to see the median, min, max and quartiles.
@@ -51,10 +47,6 @@ The ABIDE dataset contains data from several different sites. One caveat of trai
 
 - machine learning
 - using HPC clusters
- 
-## Conclusion and acknowledgement
-
-TO DO: Include conclusion and acknowledgement.
 
 ## Literature
 
